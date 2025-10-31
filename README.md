@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá, Eu sou o Lvx 👋
+___
 
-<!--
-**Lvxhck/Lvxhck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- É assim que me conhecem por aqui... Mas na real meu nome é *Levi*.
+- Atualmente estudando, mas com alguns projetinhos já prontos 😄
+- Curto Back-end e front-end
 
-Here are some ideas to get you started:
+## Técnologias que Domino
+___
+![html](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
+![Node](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projetos em desenvolvimento e algumas experiencias
+___
+
+- Sites e aplicações em Html, Css, Js, Node.js, Python e Sqlite.
+
+## Fazendo oque atualmente? 
+___
+- Estudando js e c#, 
+- Aprimorando manipulação com html e css.
+- Indo dar os próximos passos em breve...(php, MySQL, Node.js)
